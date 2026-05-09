@@ -80,7 +80,7 @@ body{
 
 /* FLOATING PLAYER */
 .floating-player{
-  position:absolute; bottom:60px; left:50%; transform:translateX(-50%); width:450px;
+  position:absolute; bottom:60px; left:10%; transform:translateX(-50%); width:450px;
   background:rgba(255,255,255,0.08); backdrop-filter:blur(20px); border:1px solid rgba(255,255,255,0.1);
   border-radius:30px; padding:20px; display:flex; gap:20px; z-index:20; box-shadow:0 0 30px rgba(255,215,0,0.2);
 }
